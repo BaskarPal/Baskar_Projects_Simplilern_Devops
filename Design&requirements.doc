@@ -1,0 +1,36 @@
+Overview of the process :
+
+
+
+
+
+
+
+
+
+Steps and testing :
+
+Source code writing :
+
+1.Creating a repo in github
+2.Adding a readme file
+3.Cloning it in the local machine
+4.Creating a dockerfile in branch
+5.Testing the docker image build 
+6.Commiting the changes to local repo
+7.Pushing the changes to remote repo
+
+Docker hub :
+
+1.creating a docker hub account
+2. forming a repo in docker hub
+
+Configuring Jenkins :
+
+1.Creating a credentials for dockerhub
+1a. github and docker plugins are installed 
+2,Forming a multi project job 
+3.Build trigger was set for git hub weekhooks
+4.Build stelp was added for docker build and push
+
+5.Bug to be checked 
